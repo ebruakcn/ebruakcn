@@ -14,19 +14,6 @@
 - ⚡ Fun fact: ...
 
 
-
-
-
-
-
-
-
-
-
-🔭  I’m currently working on something cool 😉
-🌱  I’m currently learning JavaScript, React
-
-
 ![Kullanılan Programlama Dilleri](https://user-images.githubusercontent.com/ebruakcn/Readme.md/issues/1/languages.gif)
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ebruakcn&show_icons=true&theme=radical)
 
