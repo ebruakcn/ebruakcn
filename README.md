@@ -20,6 +20,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ebruakcan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ebruakcan/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ebruakcn45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ebruakcn45" height="30" width="40" /></a>
+  [![Email Me](https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.png)](mailto:ebruakcn45@gmail.com)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
