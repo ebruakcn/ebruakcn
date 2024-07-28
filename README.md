@@ -8,11 +8,10 @@
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning JavaScript, React
 - 👯 I'm looking to collaborate on open-source projects or beginner-friendly coding challenges.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:You can reach me via email at [ebruakcn45@gmail.com] or on LinkedIn at [https://www.linkedin.com/in/ebruakcan/]
+- 🤔 I'm looking for help with understanding frontend development, especially in areas like JavaScript frameworks and responsive design.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I enjoy painting as a hobby, love exploring different music genres, enjoy playing strategy and war games, and love singing.
+
 
 ![Kullanılan Programlama Dilleri](https://user-images.githubusercontent.com/ebruakcn/Readme.md/issues/1/languages.gif)
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ebruakcn&show_icons=true&theme=radical)
