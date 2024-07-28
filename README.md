@@ -3,7 +3,7 @@
 
 
 <h3 align="center">A passionate frontend developer</h3>
-<p>I am a computer engineering graduate. My biggest dream while studying this department was to be a game programmer. Right now I want to progress in the web field. I want to do fun things in this field and develop. Of course, I would like to be a game programmer one day.😉</p>
+<p>"I am a computer engineering graduate. My biggest dream while studying in this department was to become a game programmer. Right now, I want to progress in the web field. I want to do fun things in this field and develop my skills. Of course, I would like to be a game programmer one day.😉</p>
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning JavaScript, React
