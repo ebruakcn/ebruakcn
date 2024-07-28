@@ -14,6 +14,7 @@
 
 <br><br><br>
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ebruakcn&show_icons=true&theme=radical)
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebruakcn&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark"
 <br><br><br>
 
 <h3 align="left">Connect with me:</h3>
