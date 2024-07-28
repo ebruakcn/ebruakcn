@@ -3,7 +3,7 @@
 
 
 <h3 align="center">A passionate frontend developer</h3>
-
+<p>I am a computer engineering graduate. My biggest dream while studying this department was to be a game programmer. Right now I want to progress in the web field. I want to do fun things in this field and develop. Of course, I would like to be a game programmer one day.</p>
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning JavaScript, React
 - 👯 I’m looking to collaborate on ...
@@ -12,7 +12,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+<br>
 
 ![Kullanılan Programlama Dilleri](https://user-images.githubusercontent.com/ebruakcn/Readme.md/issues/1/languages.gif)
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ebruakcn&show_icons=true&theme=radical)
