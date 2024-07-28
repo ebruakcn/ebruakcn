@@ -12,10 +12,10 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy painting as a hobby, love exploring different music genres, enjoy playing strategy and war games, and love singing.
 
-
+<br><br><br>
 ![Kullanılan Programlama Dilleri](https://user-images.githubusercontent.com/ebruakcn/Readme.md/issues/1/languages.gif)
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ebruakcn&show_icons=true&theme=radical)
-
+<br><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
