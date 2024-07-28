@@ -13,7 +13,6 @@
 - ⚡ Fun fact: I enjoy painting as a hobby, love exploring different music genres, enjoy playing strategy and war games, and love singing.
 
 <br><br><br>
-![Kullanılan Programlama Dilleri](https://user-images.githubusercontent.com/ebruakcn/Readme.md/issues/1/languages.gif)
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ebruakcn&show_icons=true&theme=radical)
 <br><br><br>
 
@@ -21,6 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ebruakcan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ebruakcan/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ebruakcn45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ebruakcn45" height="30" width="40" /></a>
+  <a href="https://discord.gg/mikasa2163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mikasa2163" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
